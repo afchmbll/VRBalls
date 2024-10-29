@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3305ca23-206c-41c0-9953-24467d9a20e5}">
+		<property name="assetPath">
+			<value>Bola Média.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.224</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63b12547-6cc0-42cb-bed0-5c630c3d09f3}</destination>
+		</relationship>
+	</object>
+</objects>

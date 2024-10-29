@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{44f1ca94-603d-4507-9bd8-67b496f7d291}">
+		<property name="assetPath">
+			<value>Landmark/sunflower-street-drumloop-85bpm-163900.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.337142857142856</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63b12547-6cc0-42cb-bed0-5c630c3d09f3}</destination>
+		</relationship>
+	</object>
+</objects>

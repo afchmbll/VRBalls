@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{db9e4ede-c75b-411f-97e5-6ea3d57b1b98}">
+		<property name="assetPath">
+			<value>Desligar Bolas.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.512</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63b12547-6cc0-42cb-bed0-5c630c3d09f3}</destination>
+		</relationship>
+	</object>
+</objects>

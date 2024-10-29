@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{070dd6ac-6a57-4993-9c55-45a01a126de1}">
+		<property name="name">
+			<value>Shockwave</value>
+		</property>
+		<relationship name="folder">
+			<destination>{40bb0ca4-6c09-451d-aa25-8bc7c0bfae8d}</destination>
+		</relationship>
+	</object>
+</objects>

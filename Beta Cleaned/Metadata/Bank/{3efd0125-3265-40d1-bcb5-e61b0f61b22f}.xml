@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{3efd0125-3265-40d1-bcb5-e61b0f61b22f}">
+		<property name="name">
+			<value>Master</value>
+		</property>
+		<property name="isMasterBank">
+			<value>true</value>
+		</property>
+		<relationship name="folder">
+			<destination>{40bb0ca4-6c09-451d-aa25-8bc7c0bfae8d}</destination>
+		</relationship>
+		<relationship name="audioTable">
+			<destination>{52bee909-34dc-4d22-9aa1-c3498010bcf4}</destination>
+		</relationship>
+	</object>
+	<object class="AudioTable" id="{52bee909-34dc-4d22-9aa1-c3498010bcf4}">
+		<property name="name">
+			<value>Audio Table</value>
+		</property>
+		<property name="sourceDirectory">
+			<value>../../../../../VR Balls Prototype/Assets/Audio/Voice Input</value>
+		</property>
+	</object>
+</objects>

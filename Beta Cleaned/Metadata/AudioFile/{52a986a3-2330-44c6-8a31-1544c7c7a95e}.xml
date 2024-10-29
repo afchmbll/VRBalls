@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{52a986a3-2330-44c6-8a31-1544c7c7a95e}">
+		<property name="assetPath">
+			<value>birds-in-cressent-beach-florida-76110.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>40.32</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{63b12547-6cc0-42cb-bed0-5c630c3d09f3}</destination>
+		</relationship>
+	</object>
+</objects>

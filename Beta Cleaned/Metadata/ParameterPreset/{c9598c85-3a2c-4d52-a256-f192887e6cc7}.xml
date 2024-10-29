@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{c9598c85-3a2c-4d52-a256-f192887e6cc7}">
+		<property name="name">
+			<value>Reverb</value>
+		</property>
+		<relationship name="folder">
+			<destination>{3597ed4b-fdb6-4aa7-a568-79c60776a1f7}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f6164040-3ccd-4eb4-a836-8770fda36376}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f6164040-3ccd-4eb4-a836-8770fda36376}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
